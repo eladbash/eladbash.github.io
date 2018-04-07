@@ -1,0 +1,23 @@
+body{
+    background-color:#cdcdcd;
+}
+
+h1{
+    font-size:25px;
+}
+
+h2{
+    font-size:16px;
+}
+
+.content{
+    background-color:#f1f1f1;
+}
+
+.top-section {
+    background-color:var(--light);
+}
+
+.second-line{
+    margin-top:15px;
+}
