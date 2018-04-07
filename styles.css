@@ -27,7 +27,7 @@ h2{
 }
 
 .me-image{
-    width:200px;
+    max-width: 50vw;
 }
 
 .flex-2{
