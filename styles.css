@@ -21,3 +21,20 @@ h2{
 .second-line{
     margin-top:15px;
 }
+
+.me-image-container{
+    text-align:center;
+}
+
+.me-image{
+    width:200px;
+}
+
+.flex-2{
+    flex:2;
+}
+
+.my-row{
+    padding:10px;
+    border-bottom:1px solid #cdcdcd;
+}
