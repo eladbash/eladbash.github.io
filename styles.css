@@ -1,17 +1,27 @@
-body{
-    background-color:#cdcdcd;
+body {
+    background-color: #3a3d44;
+    font-family: 'Roboto', sans-serif;
 }
 
-h1{
-    font-size:25px;
+h1 {
+    font-size: 25px;
+    font-weight: 600;
 }
 
 h2{
     font-size:16px;
+    font-weight:600;
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: 600;
 }
 
 .content{
     background-color:#f1f1f1;
+    border:1px solid transparent;
+    border-radius:7px;
 }
 
 .top-section {
@@ -23,11 +33,11 @@ h2{
 }
 
 .me-image-container{
-    text-align:center;
+    text-align:left;
 }
 
 .me-image{
-    max-width: 200px;
+    max-width: 160px;
 }
 
 .flex-2{
